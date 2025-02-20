@@ -1,2 +1,2 @@
-CREATE DATABASE my_new_database;
-\l
+CREATE DATABASE the_database_project;
+
